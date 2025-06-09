@@ -1,0 +1,39 @@
+{
+	"name": "draculish",
+	"displayName": "Draculish",
+	"description": "This is a theme based on Dracula Official Theme for Visual Studio Code with some color changes",
+	"author": {
+		"name": "adriankollarik"
+	},
+	"version": "0.0.3",
+	"publisher": "adriankollarik",
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/icon.png",
+	"bugs": {
+		"url": "https://github.com/ado-kollarik/VSCode-Draculish-Theme/issues"
+	},
+	"homepage": "https://marketplace.visualstudio.com/items?itemName=adriankollarik.draculish",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ado-kollarik/VSCode-Draculish-Theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Draculish",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Draculish-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1747899400257,
+		"targetPlatform": "undefined",
+		"size": 1869047
+	}
+}
